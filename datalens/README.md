@@ -35,7 +35,7 @@ pip install -r requirements.txt
 Set up environment variables:
 Create a `.env` file from `.env.example` and add your OpenAI API key (optional):
 ```bash
-OPENAI_API_KEY=your_openai_api_key
+GEMINI_API_KEY=your_openai_api_key
 ```
 
 Run the FastAPI server:
